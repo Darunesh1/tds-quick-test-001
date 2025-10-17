@@ -1,21 +1,28 @@
+```markdown
 # Quick Test 001
 
 ## Overview
-This is a simple web application that displays "Hello World" on a page.
+
+Update the Hello World page to add a blue button with id "color-button" that changes the text color to blue when clicked. Keep the original Hello World text.
 
 ## Features
-- Displays "Hello World"
-- Uses HTML and CSS for basic layout
+
+- Add a blue button with id "color-button"
+- Change the text color of the button to blue on click
+- Keep the original Hello World text
 
 ## Usage
-To use this application:
-1. Clone the repository: `git clone https://github.com/yourusername/quick-test-001.git`
-2. Navigate to the project directory: `cd quick-test-001`
-3. Run the server: `npm start`
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Start the server by running `npm start`.
 
 ## Technical Details
-- Front-end framework: React
-- Backend language: Node.js with Express
+
+This application uses React for building the user interface.
 
 ## License
-MIT License
+
+MIT
+```
